@@ -44,7 +44,7 @@ const Hero = () => {
             </motion.p>
             <motion.a
               href={resumeFile}
-              download="Sumit_Kumar_Resume.pdf"
+              download="Satyam_Kumar_Sharma_Resume.pdf"
               className="mt-4 inline-block bg-blue-500 text-white py-2 px-4 rounded-lg"
               variants={container(1.5)}
               initial="hidden"
