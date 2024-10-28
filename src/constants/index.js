@@ -1,9 +1,8 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-// import project3 from "../assets/projects/project-3.jpg";
+import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-// TODO
 
 export const HERO_CONTENT = `I am currently a third-year student pursuing a Bachelor of Technology in Computer Science at Birla Institute of Technology, Mesra. With a CGPA of 7.2, I am passionate about exploring the realms of data structures and algorithms (DSA) and full stack development. My journey in technology has led me to complete various projects and internships in web development, providing me with hands-on experience and expertise.`;
 
@@ -49,7 +48,7 @@ export const PROJECTS = [
       "Express.js",
     ],
     // liveLink: "https://bit-web-app-24.vercel.app/",
-    codeLink: "https://github.com/BitWebApp/BitWebApp-24",
+    // codeLink: "https://github.com/BitWebApp/BitWebApp-24",
   },
   {
     title: "Spotify",
@@ -59,7 +58,7 @@ export const PROJECTS = [
     technologies: ["Html", "Javascript"],
       // , "Node.js", "Firebase", "Tailwind CSS"],
     // liveLink: "https://mega-project-mu.vercel.app/",
-    codeLink: "https://github.com/sumitt-kun/mega_project",
+    codeLink: "https://github.com/Satyam-kum/Spotify",
   },
 
   // {
