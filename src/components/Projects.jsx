@@ -46,14 +46,14 @@ const Projects = () => {
                 </span>
               ))}
               <div className="mt-4">
-                <a
+                {/* <a
                   href={project.liveLink}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mr-4 text-blue-500 hover:underline"
                 >
                   Live Project
-                </a>
+                </a> */}
                 <a
                   href={project.codeLink}
                   target="_blank"
