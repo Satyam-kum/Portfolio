@@ -56,7 +56,7 @@ export const PROJECTS = [
     technologies: ["Solidity", "Foundry-tools","Chainlink"],
       // , "Node.js", "Firebase", "Tailwind CSS"],
     // liveLink: "https://mega-project-mu.vercel.app/",
-    codeLink: "https://github.com/Cyfrin/foundry-defi-stablecoin-cu?tab=readme-ov-file",
+    codeLink: "https://github.com/Satyam-kum/The-Pinnacle-Project",
   },
 
 ];
